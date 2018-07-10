@@ -1,2 +1,2 @@
 ��# Git
-Hello i'm christopher and i 'm beginner programist
+Hello! My name christopher and i 'm a beginner programist
